@@ -1,0 +1,72 @@
+body {
+    background-color: #dbdbdb;
+}
+
+.kotak {
+    margin: auto;
+    width: 1000px;
+    height: 700px;
+    border-radius: 30px;
+    background-color: white;
+}
+
+.all {
+    font-family: 'Poppins', sans-serif;
+    margin: 20px;
+}
+
+.judul {
+    padding-top: 20px;
+    text-align: center;
+}
+
+.desc {
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+hr {
+    border: none;
+    height: 4px;
+    background-color: rgb(231, 91, 91);
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+h3 {
+    margin-left: 60px;
+}
+
+ul {
+    margin-left: 80px;
+}
+
+.linkdatadiri a {
+    text-decoration: none;
+    color: rgb(231, 91, 91);
+}
+
+.medsos{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    gap: 60px;
+}
+
+.isi{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.isi img{
+    width: 35px;
+}
+
+.isi a{
+    text-decoration: none;
+    color: rgb(231, 91, 91);
+    margin-top: 5px;
+}
